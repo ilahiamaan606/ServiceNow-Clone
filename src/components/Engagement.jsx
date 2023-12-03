@@ -7,7 +7,7 @@ export default function Engagement() {
             <div>
                 <EngagementSection
                     title="Managed Projects"
-                    text="We do the heavy lifting on the technology front for your projects and blueprint."
+                    text="We do the heavy lifting on the technology front for your projects and blueprint"
                     image="managed projects.svg"></EngagementSection>
                 <EngagementSection
                     title="Team Augmentation"
